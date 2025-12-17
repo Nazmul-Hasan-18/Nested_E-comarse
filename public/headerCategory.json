@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Milks and Dairies",
+    "description": "Fresh milk, cheese, butter, yogurt, and other dairy items.",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/category-1.svg"
+  },
+  {
+    "id": 2,
+    "name": "Clothing & Beauty",
+    "description": "Trendy clothing, skincare, and beauty essentials.",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/category-2.svg"
+  },
+  {
+    "id": 3,
+    "name": "Fruits & Vegetables",
+    "description": "Organic and locally grown fresh produce.",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/category-3.svg"
+  },
+  {
+    "id": 4,
+    "name": "Bakery & Snacks",
+    "description": "Tasty breads, cookies, and ready-to-eat snacks.",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/category-4.svg"
+  },
+  {
+    "id": 5,
+    "name": "Beverages",
+    "description": "Soft drinks, juices, coffee, tea, and more.",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/category-5.svg"
+  },
+  {
+    "id": 6,
+    "name": "Frozen Foods",
+    "description": "Quick and easy frozen meals, veggies, and ice creams.",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/category-6.svg"
+  },
+  {
+    "id": 7,
+    "name": "Household Items",
+    "description": "Daily household products and cleaning essentials.",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/category-7.svg"
+  },
+  {
+    "id": 8,
+    "name": "Health & Wellness",
+    "description": "Supplements, fitness gear, and healthcare products.",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/category-8.svg"
+  },
+  {
+    "id": 9,
+    "name": "Electronics",
+    "description": "Latest gadgets, accessories, and smart devices.",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/category-9.svg"
+  },
+  {
+    "id": 10,
+    "name": "Pet Supplies",
+    "description": "Food, toys, and accessories for your pets.",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/category-10.svg"
+  }
+]

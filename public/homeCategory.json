@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Milks and Dairies",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-5.png",
+    "itemCount": 3,
+    "color":"#F2FCE4"
+  },
+  {
+    "id": 2,
+    "name": " Vegetables",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-14.png",
+    "itemCount": 23,
+    "color":"#F2FCE4"
+  },
+  {
+    "id": 3,
+    "name": "Bakery & Snacks",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-15.png",
+    "itemCount": 44,
+    "color":"#F2FCE4"
+  },
+  {
+    "id": 4,
+    "name": "Meat & Seafood",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-13.png",
+    "itemCount": 3,
+    "color":"#F2FCE4"
+  },
+  {
+    "id": 5,
+    "name": "Beverages",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-12.png",
+    "itemCount": 3,
+    "color":"#F2FCE4"
+  },
+  {
+    "id": 6,
+    "name": "Frozen Foods",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-11.png",
+    "itemCount": 3,
+    "color":"#F2FCE4"
+  },
+  {
+    "id": 7,
+    "name": "Health & Beauty",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-3.png",
+    "itemCount": 3,
+    "color":"#F2FCE4"
+  },
+  {
+    "id": 8,
+    "name": "Home & Kitchen",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-1.png",
+    "itemCount": 3
+    ,"color":"#F2FCE4"
+  },
+  {
+    "id": 9,
+    "name": "Baby Products",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-3.png",
+    "itemCount": 3,
+    "color":"#F2FCE4"
+  },
+  {
+    "id": 10,
+    "name": "Clothing ",
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-2.png",
+    "itemCount": 3,
+    "color":"#F2FCE4"
+  }
+]
+
